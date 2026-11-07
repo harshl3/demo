@@ -1,0 +1,4 @@
+# species, minimum length cm, maximum fish per day, minimum weight kg
+cod, 40, 5, 1.5
+haddock, 30, 10, 0.8
+mackerel, 20, 30, 0.2

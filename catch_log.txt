@@ -1,0 +1,14 @@
+# Boat: Morning Star
+cod, 41, 3.2
+cod, 38, 3.0
+haddock, 29, 0.5
+
+mackerel, 25, 0.4
+pollock, 50, 2.1
+cod, forty, 2.0
+cod, 44, 2.8
+cod, 47, 3.9
+cod, 42, 2.2
+cod, 45, 3.1
+cod, 43, 2.6
+haddock, 35
